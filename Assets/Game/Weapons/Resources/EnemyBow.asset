@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2fce735538619f46b07798fed84c99e, type: 3}
+  m_Name: EnemyBow
+  m_EditorClassIdentifier: 
+  animatorOverride: {fileID: 22100000, guid: 28d9a143b4ece744bb32b67928267ae0, type: 2}
+  equippedPrefab: {fileID: 3029440863761776287, guid: a7775181fe3f79d4180cf69849a0b3f4,
+    type: 3}
+  weaponDamage: 15
+  percentageBonus: 0
+  weaponRange: 15
+  isRightHanded: 0
+  projectile: {fileID: 2585479130295279821, guid: e32d68980716acd4db86daaf45d6615d,
+    type: 3}
