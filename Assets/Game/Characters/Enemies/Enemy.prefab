@@ -195,6 +195,11 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 1542577096966809119, guid: 2023261eb47d37842ad6148fa415347f,
+        type: 3}
+      propertyPath: shouldUseModifiers
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1458609753522972542, guid: 2023261eb47d37842ad6148fa415347f,
         type: 3}
       propertyPath: takeDamage.m_PersistentCalls.m_Calls.Array.size
